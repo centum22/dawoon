@@ -6268,6 +6268,7 @@ body {
 
   .grid > .col-phone-1-1 {
     max-width: 100% !important;
+    height: auto !important;
   }
 
   .grid > .col-phone-1-2 {
